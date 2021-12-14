@@ -18,7 +18,8 @@ successfully.
 2. Activate pre-triggers.
 3. If pre-trigger successful, then:
 4. Do the command.
-5. Activate post-triggers.
+5. If the command is successful, then:
+6. Activate post-triggers.
 
 ## 1. Install Erlang
 
