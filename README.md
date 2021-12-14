@@ -29,13 +29,13 @@ $ apt install erlang
 
 ## 2. Compile the source code
 
-From bash:
+Either from bash:
 
 ```
 $ erlc *.erl
 ```
 
-From within erlang:
+or from within erlang:
 
 ```
 $ erl
